@@ -1,0 +1,5 @@
+{
+  "name": "Voxel Flame",
+  "description": "A real-time parametric voxelizer using React Three Fiber, InstancedMesh, and Signed Distance Fields.",
+  "requestFramePermissions": []
+}
